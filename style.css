@@ -1,0 +1,92 @@
+#hx{
+    width: 270px;
+}
+h1{
+    background-color: aqua;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 50px;
+    color: black;
+}
+H22{background-color: orange;
+    border-radius: 5px;
+    display: inline-block;
+    border: 5px solid blue;
+    font-size: 50px;
+    color: blue;
+
+}
+#p{
+    background-color: skyblue;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#b{
+    background-color: red;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px
+}
+#c{
+    background-color: orangered;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#d{
+    background-color: orange;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#e{
+    background-color: rgb(225, 0, 255);
+    display: inline-block;
+    border: 2px solid rgb(36, 46, 189);
+    border-radius: 5px;
+    color: aliceblue;
+}
+#v{
+    background-color: rgb(71, 80, 181);
+    display: inline-block;
+    border-radius: 5px;
+    border-color: black;
+    padding: 5px;
+}
+#h{
+    background-color: lightsalmon;
+    display: inline-block;
+    border: 3px solid black;
+    border-radius:5px ;
+    border-color: black;
+    padding: 5px;
+}
+img{
+    border: 10px double black;
+    
+} 
+#sb{
+    background-color: rgb(18, 135, 161);
+}
+#hd{
+    background-color: rgb(155, 31, 41);
+}
+#vj{
+    background-color: rgb(9, 174, 119);
+}
+#knl{
+    background-color: rgb(94, 114, 162)
+}
+a{
+    color: black;
+}
+#nd{
+    background-color: black;
+    color: aliceblue;
+}
+#bdr{
+    border: 10px solid blue;
+    background-color: brown;
+    width: 400px;
+}
